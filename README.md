@@ -199,6 +199,9 @@ csv-postgres-app/
 │   │
 │   └── app.js                         # Express app entry
 │
+├── data/
+│   └── sample.csv                     # Sample CSV for testing
+│
 ├── .env
 ├── package.json
 └── README.md
